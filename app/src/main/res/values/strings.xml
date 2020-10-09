@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="change_language_settings">Language Configuration</string>
+    <string name="released_date">Released Date</string>
+    <string name="original_language">Original Language</string>
+    <string name="overview">Overview</string>
+    <string name="movies">Movies</string>
+    <string name="tvshow">TV Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="alert_success_fav">"Successfull ADD to favorite!"</string>
+    <string name="confirm_title">"Confirmation to delete item"</string>
+    <string name="confirm_message">"Are you sure want to delete this item?"</string>
+    <string name="positive_choice">"Yes"</string>
+    <string name="alert_delete_fav">"Successfull DELETE to favorite!"</string>
+    <string name="negative_choice">"No"</string>
+    <string name="search">Search"</string>
+    <string name="not_found">Nothing found, try another title!</string>
+    <string name="notification_settings">Notification Configuration</string>
+    <string name="notif_release_today_title">Release Reminder</string>
+    <string name="notif_daily_reminder_title">Daily Reminder</string>
+    <string name="notif_release_today">Reminder for show the movie that release today</string>
+    <string name="notif_daily_reminder">Reminder for return to app</string>
+    <string name="notif_daily_reminder_message">Let\'s see what movies are popular today!</string>
+    <string name="notif_release_today_message">has been release today!</string>
+
+
+</resources>

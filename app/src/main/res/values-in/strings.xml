@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+    <string name="released_date">Tanggal Rilis</string>
+    <string name="original_language">Bahasa Asli</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="movies">Film</string>
+    <string name="tvshow">Acara TV</string>
+    <string name="favorite">Favorit</string>
+    <string name="alert_success_fav">"Berhasil menambah ke favorit!"</string>
+    <string name="confirm_title">"Konfirmasi hapus item"</string>
+    <string name="confirm_message">"Kamu yakin akan menghapus item ini?"</string>
+    <string name="positive_choice">"Ya"</string>
+    <string name="alert_delete_fav">"Sukses menghapus item dari favorit!"</string>
+    <string name="negative_choice">"Tidak"</string>
+    <string name="search">Cari"</string>
+    <string name="notification_settings">Konfigurasi Pemberitahuan</string>
+    <string name="not_found">Tidak ketemu, cari judul kata yang lain!</string>
+    <string name="notif_release_today_title">Pengingat Tayang</string>
+    <string name="notif_daily_reminder_title">Pengingat Harian</string>
+    <string name="notif_release_today">Pengingat film yang tayang hari ini</string>
+    <string name="notif_daily_reminder">Pengingat kembali ke aplikasi</string>
+    <string name="notif_daily_reminder_message">Let\'s see what movies are popular today!</string>
+    <string name="notif_release_today_message">has been release today!</string>
+
+</resources>
